@@ -4,7 +4,7 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/*header and hero style*/
+/* header and hero style */
 
 .header {
     margin: 0;
@@ -47,8 +47,10 @@ a, .secondary-text {
 .hero {
     padding: 100px 100px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    gap: 20px;
 }
 
 
@@ -74,7 +76,36 @@ a, .secondary-text {
 }
 
 .hero-img {
-    width: 500px;
+    max-width: 500px;
     height: auto;
+    border: 3px solid white;
+    border-radius: 8px;
+}
+
+/*  info style */
+
+.info {
+    padding: 0 100px;
+    text-align: center;
+}
+
+.info-text {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.sections-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.section img{
+    max-width: 150px;
+    height: auto;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
 }
 

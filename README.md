@@ -1,2 +1,8 @@
 # landing-page
-Image by <a href="https://pixabay.com/users/ba2design-17347071/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5577198">Ba2 Design</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5577198">Pixabay</a>
+Logo by Ba2 Design from Pixabay
+
+Photo by Mike Glezos from Pexels
+
+Photo by Chris Janda from Pexels
+
+Photo by Brett Sayles from Pexels
