@@ -1,3 +1,2 @@
 # landing-page
-
-- Logo by Ba2 Design from Pixabay
+Image by <a href="https://pixabay.com/users/ba2design-17347071/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5577198">Ba2 Design</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5577198">Pixabay</a>
