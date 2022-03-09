@@ -45,7 +45,7 @@ a, .secondary-text {
 }
 
 .hero {
-    padding: 100px 100px;
+    padding: 100px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -85,7 +85,7 @@ a, .secondary-text {
 /*  info style */
 
 .info {
-    padding: 0 100px;
+    padding: 20px 100px;
     text-align: center;
 }
 
@@ -109,3 +109,22 @@ a, .secondary-text {
     border-radius: 8px;
 }
 
+/* quote style */
+
+.quote {
+    padding: 100px;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+    text-align: center;
+}
+
+#signature {
+    text-align: right;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+}
