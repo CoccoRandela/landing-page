@@ -47,7 +47,6 @@ a, .secondary-text {
 .hero {
     padding: 100px;
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     gap: 20px;
@@ -76,7 +75,8 @@ button {
 }
 
 .hero-img {
-    max-width: 500px;
+    width: 100%;
+    min-width: 100px;
     height: auto;
     border: 3px solid white;
     border-radius: 8px;
